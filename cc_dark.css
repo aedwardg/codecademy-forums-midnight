@@ -41,6 +41,10 @@ html {
   .d-header {
     color: #bbbac1;
   }
+
+  .category-boxes-with-topics .category-box-heading a[href] {
+    color: #bbbac1;
+  }
   
   .category-list td {
     color: #bbbac1 !important;

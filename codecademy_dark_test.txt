@@ -1,0 +1,30 @@
+Main background: #151517
+
+Darker background: #000000
+
+Dark blue buttons: #141e46
+
+White text: #fffefe
+
+Gray text: #bbbac1
+
+Slightly darker gray text: #646464
+
+Blue links: #3d65c2
+
+Code block background: #202122
+
+hljs: 
+  function: #f6f6f6
+  keyword: #f6f6f6
+  title: #d14
+  number: #06ce54
+  built-in: #3d5dd0
+  
+.alert.alert-info {
+  background_color: #82e6d8;
+}
+
+.topic-list .topic-list-item-separator td span {
+  background: #151517;
+}
